@@ -1,0 +1,34 @@
+body{ background-color: red;
+;
+text-align: center;
+background:pink;
+}
+h1{color: violet;
+text-align: center;
+}
+p{color: royalblue;
+text-align: left;}
+table{border: 1px solid;
+border-color: blue;
+border-collapse: collapse;
+}
+th,td{border: 1rcap;
+border-radius: 25%;
+text-align: left;
+padding: 5px;
+}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+text-decoration: dotted;
+text-overflow: initial;
+}
+ul{list-style: lower-alpha;
+text-decoration: underline;
+text-transform: capitalize;
+text-align: left;
+}
+ol{list-style: lower-roman;
+text-transform: uppercase;
+text-decoration: line-through;
+text-align: left;
+}
